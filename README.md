@@ -1,3 +1,19 @@
+Group Project from AWAcademy with Tristan Kraus, Heinrich Böse and Daniel Schnietz.  
+
+This App was built to improve the coding skills of people, who are new to coding.  
+The main goal is to solve the given exercise as fast as possible.  
+There are two modes:  
+Singleplayer  
+Multiplayer  
+
+In Multiplayer mode you can challange your friends with the included link to invite them to your lobby.  
+Multiplayer lobby and game itself are updated in realtime through Firestore Realtime Database.  
+
+The goal on building this App was to serve an App, which is able to run any code safely, so it wont break the App, without the help of Docker.  
+The submitted code is checked in an iframe and a webworker, so the code wont break the App.  
+
+This App was built with React and a Serverless Backend with Firestore Cloud.
+
 
 component hierarchy:
 
