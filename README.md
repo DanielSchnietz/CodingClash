@@ -14,6 +14,8 @@ The submitted code is checked in an iframe and a webworker, so the code wont bre
 
 This App was built with React and a Serverless Backend with Firestore Cloud.
 
+UI was build with MaterialUI. The user can choose from multiple themes to get the look he likes. 
+
 
 component hierarchy:
 
